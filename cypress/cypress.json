@@ -1,0 +1,6 @@
+{
+    "experimentalMemoryManagement": true,
+    "numTestsKeptInMemory": 100
+  }
+  
+  
